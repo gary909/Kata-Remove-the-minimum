@@ -1,0 +1,1 @@
+# Kata-Remove-the-minimum
